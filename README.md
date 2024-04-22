@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-🔭 Working on **Building **
+🔭 Working on **Building something with markets and improving as an eTrading Quant Researcher**
 
-🌱 Currently learning **F#** and **Data Engineering**
+🌱 Currently learning **Rust** 
 
-💬 Ask me about anything
 
-[![Hendrik's github stats](https://github-readme-stats.vercel.app/api?username=HendrikMS&count_private=true&show_icons=true&theme=dracul)
+[Hendrik's github stats](https://github-readme-stats.vercel.app/api?username=HendrikMS&count_private=true&show_icons=true&theme=dracul)
