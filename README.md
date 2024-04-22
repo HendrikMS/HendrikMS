@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Working on **Building something with markets and improving as an eTrading Quant Researcher**
+🔭 Working on **building something with markets and improving as an eTrading Quant Researcher**
 
 🌱 Currently learning **Rust** 
 
