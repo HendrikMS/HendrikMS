@@ -4,3 +4,4 @@
 
 🌱 Currently learning **Rust** 
 
+🚀 Enjoying applying stats to sports betting.
