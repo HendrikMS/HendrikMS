@@ -6,4 +6,4 @@
 
 🚀 Enjoying applying stats to sports betting.
 
-[![Hendrik's github stats](https://github-readme-stats.vercel.app/api?username=hendrikMS&count_private=true&show_icons=true&theme=dracula)](https://github.com/HendrikMS)
+[![Hendrik's github stats](https://github-readme-stats.vercel.app/api?username=hendrikMS&count_private=true)](https://github.com/HendrikMS)
