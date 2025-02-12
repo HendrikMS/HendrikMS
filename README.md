@@ -4,4 +4,4 @@
 
 🌱 Currently learning **Rust** 
 
-🚀 Enjoying applying stats to sports betting.
+🚀 Enjoying applying stats/ml to sports betting.
